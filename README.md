@@ -4,3 +4,4 @@ andris
 myfirstedit
 majasdarbspirmais
 obligatsnosaukums
+# saprasanas nekadas
