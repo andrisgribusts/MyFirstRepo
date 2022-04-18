@@ -1,0 +1,15 @@
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\primitiv type demo\primitiv type demo\bin\Debug\net6.0\primitiv type demo.exe
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\primitiv type demo\primitiv type demo\bin\Debug\net6.0\primitiv type demo.deps.json
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\primitiv type demo\primitiv type demo\bin\Debug\net6.0\primitiv type demo.runtimeconfig.json
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\primitiv type demo\primitiv type demo\bin\Debug\net6.0\primitiv type demo.dll
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\primitiv type demo\primitiv type demo\bin\Debug\net6.0\primitiv type demo.pdb
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\primitiv type demo\primitiv type demo\obj\Debug\net6.0\primitiv type demo.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\primitiv type demo\primitiv type demo\obj\Debug\net6.0\primitiv type demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\primitiv type demo\primitiv type demo\obj\Debug\net6.0\primitiv type demo.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\primitiv type demo\primitiv type demo\obj\Debug\net6.0\primitiv type demo.AssemblyInfo.cs
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\primitiv type demo\primitiv type demo\obj\Debug\net6.0\primitiv type demo.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\primitiv type demo\primitiv type demo\obj\Debug\net6.0\primitiv type demo.dll
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\primitiv type demo\primitiv type demo\obj\Debug\net6.0\refint\primitiv type demo.dll
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\primitiv type demo\primitiv type demo\obj\Debug\net6.0\primitiv type demo.pdb
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\primitiv type demo\primitiv type demo\obj\Debug\net6.0\primitiv type demo.genruntimeconfig.cache
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\primitiv type demo\primitiv type demo\obj\Debug\net6.0\ref\primitiv type demo.dll

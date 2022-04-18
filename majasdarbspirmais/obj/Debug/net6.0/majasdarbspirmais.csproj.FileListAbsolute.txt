@@ -1,0 +1,15 @@
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\majasdarbspirmais\majasdarbspirmais\majasdarbspirmais\bin\Debug\net6.0\majasdarbspirmais.exe
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\majasdarbspirmais\majasdarbspirmais\majasdarbspirmais\bin\Debug\net6.0\majasdarbspirmais.deps.json
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\majasdarbspirmais\majasdarbspirmais\majasdarbspirmais\bin\Debug\net6.0\majasdarbspirmais.runtimeconfig.json
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\majasdarbspirmais\majasdarbspirmais\majasdarbspirmais\bin\Debug\net6.0\majasdarbspirmais.dll
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\majasdarbspirmais\majasdarbspirmais\majasdarbspirmais\bin\Debug\net6.0\majasdarbspirmais.pdb
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\majasdarbspirmais\majasdarbspirmais\majasdarbspirmais\obj\Debug\net6.0\majasdarbspirmais.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\majasdarbspirmais\majasdarbspirmais\majasdarbspirmais\obj\Debug\net6.0\majasdarbspirmais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\majasdarbspirmais\majasdarbspirmais\majasdarbspirmais\obj\Debug\net6.0\majasdarbspirmais.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\majasdarbspirmais\majasdarbspirmais\majasdarbspirmais\obj\Debug\net6.0\majasdarbspirmais.AssemblyInfo.cs
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\majasdarbspirmais\majasdarbspirmais\majasdarbspirmais\obj\Debug\net6.0\majasdarbspirmais.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\majasdarbspirmais\majasdarbspirmais\majasdarbspirmais\obj\Debug\net6.0\majasdarbspirmais.dll
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\majasdarbspirmais\majasdarbspirmais\majasdarbspirmais\obj\Debug\net6.0\refint\majasdarbspirmais.dll
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\majasdarbspirmais\majasdarbspirmais\majasdarbspirmais\obj\Debug\net6.0\majasdarbspirmais.pdb
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\majasdarbspirmais\majasdarbspirmais\majasdarbspirmais\obj\Debug\net6.0\majasdarbspirmais.genruntimeconfig.cache
+C:\Users\angel\Desktop\ANDRA\C# kursi\Repo\majasdarbspirmais\majasdarbspirmais\majasdarbspirmais\obj\Debug\net6.0\ref\majasdarbspirmais.dll
